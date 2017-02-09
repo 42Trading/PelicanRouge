@@ -1,0 +1,2 @@
+# PelicanRouge
+Cofffee machine repository
